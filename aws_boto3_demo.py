@@ -47,5 +47,5 @@ s3_resource.Object('pythonusecase', 'random_pic.jpg').\
 #Enable versioning of a Bucket
 s3_resource.BucketVersioning("pythonusecase").enable()
 
-
+print("helloworld")
 
